@@ -1,1 +1,2 @@
-你好！欢迎来到这个世界！
+print("Hello World")
+print("老板是神经病")
